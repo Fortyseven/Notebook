@@ -4,7 +4,7 @@
 
 ## Windows (Development)
 * <a href="http://unity3d.com/">Unity</a> - Still the champ for rapid game development. C# scripted games export to practically everything on the PC, Mac, mobile, and consoles. The enormous online community and educational resources are a huge bonus, too.
-* <a href="http://www.visualstudio.com/en-us/news/vs2013-community-vs.aspx">Visual Studio Community 2013</a> - The new, improved free version of Visual Studio that also works with Unity... but do that you'll need...
+* <a href="http://www.visualstudio.com/en-us/news/vs2013-community-vs.aspx">Visual Studio Community 2013</a> - The new, improved free version of Visual Studio that also works with Unity... but to do that you'll need...
 * <a href="https://visualstudiogallery.msdn.microsoft.com/20b80b8c-659b-45ef-96c1-437828fe7cf2">Visual Studio 2013 Tools for Unity</a> - Kick MonoDevelop to the curb. Once you go VS for Unity, you never go back.
 * <a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a> - Can't imagine working on PHP projects without it.
 * <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a> - And, of course, if you're working with Java, this is your IDE.
