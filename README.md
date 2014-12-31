@@ -13,7 +13,7 @@ This list is meant to be a living document, with some sections more filled in th
 * <a href="http://quassel-irc.org/">Quassel</a> - Always be on IRC. Even when you're not.
 * <a href="http://keepass.info/">KeePass</a> - I finally broke down and decided to throw my trust behind a password vault. Terrific Windows client.
 * <a href="http://virtuawin.sourceforge.net/">VirtuaWin</a> - If you're doing the virtual desktop thing, you're doing it with this. At least until Windows 10 comes out, supposedly.
-* <a href="http://www.revouninstaller.com/">Revo Uninstaller</a> - Despite suffering from "scammy looking bloatware" syndrome, lately, the free version (you have to dig for it...) is still a terrific uninstallation tool.
+* <a href="http://www.revouninstaller.com/">Revo Uninstaller</a> - Despite suffering from "scammy looking bloatware" syndrome lately, the free version (you have to dig for it...) is still a terrific uninstallation tool.
 
 ### Development
 * <a href="http://unity3d.com/">Unity</a> - Still the champ for rapid game development. C# scripted games export to practically everything on the PC, Mac, mobile, and consoles. The enormous online community and educational resources are a huge bonus, too.
