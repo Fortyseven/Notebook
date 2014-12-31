@@ -77,7 +77,7 @@ This list is meant to be a living document, with some sections more filled in th
 * <a href="http://www.looperman.com/loops">Looperman</a> - "Royalty free loops, samples and sounds kindly uploaded by other users; free to use in your project"
 * <a href="http://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=12">OpenGameArt.org</a> - Open Game Art maintains a music collection.
 * <a href="https://musopen.org/">Musopen</a> - A non-profit focused on increasing access to music by creating free resources; free, without restrictions.
-* 
+
 #### Generators and Tools
 * <a href="http://www.drpetter.se/project_musagi.html">musagi</a> - Sweet tracker and synth for Windows. Now open-source.
 * <a href="http://www.fakemusicgenerator.com/">Fake Music Generator</a> - I haven't used this in anything, myself, but you may find it useful.
