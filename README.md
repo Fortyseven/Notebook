@@ -8,9 +8,9 @@
 * <a href="https://visualstudiogallery.msdn.microsoft.com/20b80b8c-659b-45ef-96c1-437828fe7cf2">Visual Studio 2013 Tools for Unity</a> - Kick MonoDevelop to the curb. Once you go VS for Unity, you never go back.
 * <a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a> - Can't imagine working on PHP projects without it.
 * <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a> - And, of course, if you're working with Java, this is your IDE.
+* <a href="http://developer.android.com/tools/studio/index.html">Android Studio</a> - Best of all, IntelliJ IDEA is the basis for the now mostly mature official IDE for Android development!
 * <a href="http://www.blender.org/">Blender</a> - An angry bear of a UI, but once you learn how to navigate this insanely great 3D modeling tool, you're in like Flynn.
 * <a href="http://www.microridge.com/comtestserial.htm">MicroRidge ComTestSerial</a> - Great terminal client for debugging serial protocols and such. Just works.
-
 
 ## Windows (General)
 * <a href="https://obsproject.com/">Open Broadcaster</a> - Your first and last stop for desktop streaming and local video capture.
@@ -18,6 +18,7 @@
 * <a href="http://quassel-irc.org/">Quassel</a> - Always be on IRC. Even when you're not.
 * <a href="http://keepass.info/">KeePass</a> - I finally broke down and decided to throw my trust behind a password vault. Terrific Windows client.
 * <a href="http://virtuawin.sourceforge.net/">VirtuaWin</a> - If you're doing the virtual desktop thing, you're doing it with this. At least until Windows 10 comes out, supposedly.
+* <a href="http://www.revouninstaller.com/">Revo Uninstaller</a> - Despite suffering from "scammy looking bloatware" syndrome, lately, the free version (you have to dig for it...) is still a terrific uninstallation tool.
 
 
 ## Android - Non-Games
@@ -42,4 +43,4 @@
 * <a href="https://soundcloud.com/">SoundCloud</a> - Premium audio hosting service that finally has a reasonable price tag for subscriptions.
 * <a href="http://ezgif.com/optimize">EZGIF.com</a> - Clunky, but workable online tool for optimizing .GIF animations.
 * <a href="http://voicebunny.com/">Voice Bunny</a> - Despite all of the issues on their site, technical and practical, if you're a voice actor, it's a nice way to make a quick buck while practicing.
-* 
+* <a href="https://www.dropbox.com/">Dropbox</a> - Just don't store anything private on it, and you've got yourself a nice, free, 2gb space online with terrific desktop and mobile client access.
