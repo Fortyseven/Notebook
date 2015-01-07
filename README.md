@@ -7,7 +7,7 @@ This list is meant to be a living document, with some sections more filled in th
 ## Windows 
 ### General
 * <a href="http://bluemars.org/clipx/">ClipX</a> - Can't live without this clipboard history manager. Juggle multiple items on the Windows clipboard, instead of just one. Nearly flawless.
-* <a href="http://www.voidtools.com/">Everything</a> - Extremely fast local file searching for Windows.
+* <a href="http://www.voidtools.com/">Everything</a> - Extremely fast, local file searching for Windows.
 * <a href="https://obsproject.com/">Open Broadcaster</a> - Your first and last stop for desktop streaming and local video capture.
 * <a href="http://blog.bahraniapps.com/gifcam/">GifCam</a> - Hands down the best GIF capture tool available. Light, and trivial to use once you figure out the UI.
 * <a href="http://quassel-irc.org/">Quassel</a> - Always be on IRC. Even when you're not.
